@@ -48,5 +48,7 @@ Follow these steps to get the project running locally:
     ```bash
     npm run dev
     ```
+    ![Screenshot 2024-11-16 210242](https://github.com/user-attachments/assets/2744942a-285a-4c9d-9eb8-6fbc85e8467b)
+
 
 
